@@ -1,0 +1,2 @@
+timestamp,model,batch_size,epochs,train_time_phase1_s,peak_mem_train_phase1_mb,train_time_phase2_s,peak_mem_train_phase2_mb,val_time_s,peak_mem_val_mb,total_time_s,peak_mem_total_mb,val_loss,val_accuracy,accuracy,precision,recall,f1,test_horses,horses_identified,test_humans,humans_identified,top_score,top_index,label,confusion_matrix,total_params,trainable_params
+2026-04-09 21:35:00,resnet101,32,5,95.27,399.8,222.19,249.88,25.87,44.88,352.07,399.8,0.0,1.0,1.0,1.0,1.0,1.0,128,128,66,66,1.0,128,human,"[[128, 0], [0, 66]]",43182977,524801
